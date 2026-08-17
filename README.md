@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriele Furlan 👋
+# Hi there
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriele.furlan04@gmail.com)
@@ -6,13 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Computer Science Graduate** from **University of Milano-Bicocca** (2023 – 2026).
-- 💼 **Technology Consultant Intern** at **PwC Italy** (Insurance & Financial Services).
-- 🔬 Former **Research Intern** at **SAL** (Software Architecture Laboratory - UniMiB).
-- 🧠 Passionate about **AI Systems, LLMs/RAG Architectures, Microservices, and Distributed Systems**.
-- 💬 Ask me about **Java, Python, Clean Architecture, Event-Driven Systems & AI Optimization**.
-- 🌍 **Languages:** Italian (Native) 🇮🇹 | English (C1 Proficient) 🇬🇧
+### About Me
+- **Computer Science Graduate** from **University of Milano-Bicocca** (2023 – 2026).
+- **Technology Consultant Intern** at **PwC Italy** (Insurance & Financial Services).
+- Former **Research Intern** at **SAL** (Software Architecture Laboratory - UniMiB).
+- Passionate about **AI Systems, LLMs/RAG Architectures, Microservices, and Distributed Systems**.
+- Ask me about **Java, Python, Clean Architecture, Event-Driven Systems & AI Optimization**.
+- **Languages:** Italian (Native) 🇮🇹 | English (C1 Proficient) 🇬🇧
 
 ---
 
