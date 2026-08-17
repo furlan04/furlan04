@@ -1,6 +1,6 @@
 # Hi there
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-furlan-03075b200/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriele.furlan04@gmail.com)
 [![Location](https://img.shields.io/badge/Lombardy-Italy-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
