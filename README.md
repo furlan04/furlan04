@@ -12,7 +12,7 @@
 - Former **Research Intern** at **SAL** (Software Architecture Laboratory - UniMiB).
 - Passionate about **AI Systems, LLMs/RAG Architectures, Microservices, and Distributed Systems**.
 - Ask me about **Java, Python, Clean Architecture, Event-Driven Systems & AI Optimization**.
-- **Languages:** Italian (Native) 🇮🇹 | English (C1 Proficient) 🇬🇧
+- **Languages:** Italian (Native) | English (C1 Proficient) 
 
 ---
 
