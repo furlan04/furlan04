@@ -39,6 +39,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-[![GitHub Contributions](https://streak-stats.demolab.com?user=furlan04)](https://git.io/streak-stats)
-
 ---
