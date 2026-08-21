@@ -40,3 +40,8 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
+
+### Certifications
+[![Claude Certified Associate](https://img.shields.io/badge/Claude_Certified_Associate-Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)]
+
+---
