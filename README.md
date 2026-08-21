@@ -42,6 +42,6 @@
 ---
 
 ### Certifications
-[![Claude Certified Associate](https://img.shields.io/badge/Claude_Certified_Associate-Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)]
+![Claude Certified Associate](https://img.shields.io/badge/Claude_Certified_Associate-Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
