@@ -8,8 +8,8 @@
 
 ### About Me
 - **Computer Science Graduate** from **University of Milano-Bicocca** (2023 – 2026).
-- **Technology Consultant Intern** at **PwC Italy** (Insurance & Financial Services).
-- Former **Research Intern** at **SAL** (Software Architecture Laboratory - UniMiB).
+- **Technology Consultant Intern** @ **PwC Italy** (Insurance, AI & Enterprise Architecture).
+- Former **Research Intern** @ **SAL** (Software Architecture Laboratory - UniMiB).
 - **Languages:** Italian (Native) | English (C1 Proficient) 
 
 ---
